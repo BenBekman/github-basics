@@ -1,3 +1,5 @@
 Our first step in Git!
 
 from the second branch
+
+Hi people
